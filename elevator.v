@@ -304,22 +304,7 @@ always @(*)
                            fan_on=1'b0;
                            alarm_on=1'b0;
                         
-                     end
-                        
-            
-                    
-                       
-                
-        endcase
-               
-            
+                 end 
+        endcase        
     end
-    
-        
-     
-          
-          
-     
-
-
 endmodule
