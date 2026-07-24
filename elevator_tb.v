@@ -204,4 +204,3 @@ end
 endmodule
 
 
-//still need to check e_stop .
